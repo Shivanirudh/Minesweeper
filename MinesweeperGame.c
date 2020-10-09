@@ -150,9 +150,8 @@ int main(){
 										solution=1;
 										break;
 									}
-									else{
+									else
 										printf(" %d |",tmp->no_mines);
-									}
 									break;
 								}
 							}
@@ -208,7 +207,7 @@ int main(){
 	}while(option);
 }
 		
-				
+
 				
 				
 	
